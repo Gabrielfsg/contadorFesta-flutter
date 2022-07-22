@@ -1,3 +1,3 @@
 # contadorapp
 
-My firstflutter aplication.
+My first flutter aplication.
